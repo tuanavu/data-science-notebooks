@@ -3,6 +3,7 @@
 ## Index
 
 * [deep-learning](#deep-learning)
+* [books](#books)
 * [license](#license)
 
 ## deep-learning
@@ -25,6 +26,19 @@ These notebooks are derived from [learningtensorflow](http://learningtensorflow.
 | [tensorflow-placeholders](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/3_Placeholders.ipynb) | Understand the concept of Placeholders |
 | [tensorflow-iteration](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/4_Iteration.ipynb) | Iteration in TensorFlow. |
 | [tensorflow-clustering](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/5_clustering.ipynb) | Implement K-mean cluster in TensorFlow. |
+
+## books
+
+### Effective Python
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [item03](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/1_tensorflow_basic.ipynb) | Know the differences between bytes, str and unicode |
+| [tensorflow-array](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/2_Arrays_working_with_images.ipynb) | Using array to work with images.|
+| [tensorflow-placeholders](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/3_Placeholders.ipynb) | Understand the concept of Placeholders |
+| [tensorflow-iteration](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/4_Iteration.ipynb) | Iteration in TensorFlow. |
+| [tensorflow-clustering](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/5_clustering.ipynb) | Implement K-mean cluster in TensorFlow. |
+
+
 
 ## LICENSE
 
