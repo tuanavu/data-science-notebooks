@@ -29,15 +29,16 @@ These notebooks are derived from [learningtensorflow](http://learningtensorflow.
 
 ## books
 
+### Python for Data Analysis
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [ch02](http://nbviewer.jupyter.org/github/tuanavu/pydata-book/blob/master/my-code/ch02.ipynb) | Introductory Examples |
+
+
 ### Effective Python
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [item03](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/1_tensorflow_basic.ipynb) | Know the differences between bytes, str and unicode |
-| [tensorflow-array](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/2_Arrays_working_with_images.ipynb) | Using array to work with images.|
-| [tensorflow-placeholders](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/3_Placeholders.ipynb) | Understand the concept of Placeholders |
-| [tensorflow-iteration](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/4_Iteration.ipynb) | Iteration in TensorFlow. |
-| [tensorflow-clustering](http://nbviewer.jupyter.org/github/tuanavu/machine-learning-ipython-notebooks/blob/master/deep-learning/tensorflow-tutorials/5_clustering.ipynb) | Implement K-mean cluster in TensorFlow. |
-
+| [item03](http://nbviewer.jupyter.org/github/tuanavu/data-science-notebooks/blob/master/books/effectivepython/notebooks/item_03.ipynb) | Know the differences between bytes, str and unicode |
 
 
 ## LICENSE
