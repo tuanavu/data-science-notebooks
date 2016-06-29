@@ -1,4 +1,4 @@
-# machine-learning-ipython-notebooks
+# data-science-notebooks
 
 ## Index
 
