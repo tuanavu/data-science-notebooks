@@ -33,6 +33,7 @@ These notebooks are derived from [learningtensorflow](http://learningtensorflow.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [ch02](http://nbviewer.jupyter.org/github/tuanavu/pydata-book/blob/master/my-code/ch02.ipynb) | Introductory Examples |
+| [ch04](http://nbviewer.jupyter.org/github/tuanavu/pydata-book/blob/master/my-code/ch04.ipynb) | NumPy Basics: Arrays and Vectorized Computation |
 
 
 ### Effective Python
